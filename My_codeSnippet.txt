@@ -1,0 +1,47 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define fastio                    \
+    ios_base::sync_with_stdio(0); \
+    cin.tie(NULL);                \
+    cout.tie(NULL)
+#define ff first
+#define ss second
+#define ll long long int
+#define pb push_back
+#define pf push_front
+#define mp make_pair
+#define pii pair<ll, ll>
+#define vi vector<ll>
+#define vp vector<pii>
+#define setint set<ll>
+#define mii unordered_map<ll, ll>
+#define pqbig priority_queue<ll>
+#define pqsmall priority_queue<ll, vi, greater<ll>>
+#define pqsmallbfs2 priority_queue<pii, vp, greater<pii>>
+#define PI 3.1415926535897932384626433832795
+#define prec(n) fixed<<setprecision(n)
+#define siz 2000005
+#define mod 1000000007
+#define inf int(INT_MAX)
+#define all(_x) _x.begin(), _x.end()
+#define lb(_x, _a) (lower_bound(all(_x), _a) - _x.begin())
+#define ub(_x, _a) (upper_bound(all(_x), _a) - _x.begin())
+#define rep(i, s, e) for (ll i = s; i < e; i++)
+#define Endl endl
+#define tc     \
+    ll tc;     \
+    cin >> tc; \
+    while (tc--)
+#define read(_s) freopen(_s, "r", stdin)
+#define write(_s) freopen(_s, "w", stdout)
+//a.d.i.t.y.a.*.r.a.u.t.a.d.i.t.y.a.*.r.a.u.t.a.d.i.t.y.a.*.r.a.u.t.a.d.i.t.y.a.*.r.a.u.t.a.d.i.t.y.a.*.r.a.u.t.a.d.i.t.y.a.*.r.a.u.t.//
+
+
+
+int main()
+{
+    fastio;
+	
+
+    return 0;
+}
